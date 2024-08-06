@@ -1,0 +1,12 @@
+*.log
+log.txt
+log_error.txt
+*.txt
+init*
+*.png
+sys-dev-workspace.code-workspace
+*.env
+wip/
+*.json
+tmp/
+/tmp/
